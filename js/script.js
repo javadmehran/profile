@@ -1,5 +1,4 @@
-function topMenu(){
-    const toggleMenu=document.querySelector('.menu');
+function ToggleMenu(){
+    const toggleMenu=document.querySelector('.menu')
     toggleMenu.classList.toggle('active')
-
 }

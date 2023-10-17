@@ -73,6 +73,9 @@ body{
     box-sizing: border-box;
     width: 100%;
 }
+.action .menu.active{
+    opacity: 1;
+}
 .action .menu h3 span{
     font-size: 14px;
     color: #777;
